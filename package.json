@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Javier Mercedes's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiritoXD01/portafolio.git"
+  },
+  "author": "Javier Mercedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KiritoXD01/portafolio/issues"
+  },
+  "homepage": "https://github.com/KiritoXD01/portafolio#readme"
+}
