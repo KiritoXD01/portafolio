@@ -1,0 +1,14 @@
+[
+    {
+        "link": "https://mini-sistema-inmobiliario.herokuapp.com/",
+        "name": "Mini Sistema Inmobiliario",
+        "github": "https://github.com/KiritoXD01/mini-sistema-inmobiliario",
+        "image": "img/projects/sistema-inmobiliario.png"
+    },
+    {
+        "link": "https://mini-sistema-registro.herokuapp.com/",
+        "name": "Mini Sistema Registro",
+        "github": "https://github.com/KiritoXD01/mini-sistema-registro",
+        "image": "img/projects/sistema-registro.png"
+    }
+]
